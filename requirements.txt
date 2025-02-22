@@ -1,5 +1,5 @@
 streamlit
-leafmap
+leafmap==0.22.0
 rasterio
 rio-cogeo
 folium
@@ -16,5 +16,4 @@ seaborn
 watchdog
 xarray
 opencv-python
-threading
 paramiko
